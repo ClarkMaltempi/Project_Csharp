@@ -1,0 +1,10 @@
+C:\Users\chmfa\source\repos\CalcAtividade1\CalcAtividade1\bin\Debug\CalcAtividade1.exe.config
+C:\Users\chmfa\source\repos\CalcAtividade1\CalcAtividade1\bin\Debug\CalcAtividade1.exe
+C:\Users\chmfa\source\repos\CalcAtividade1\CalcAtividade1\bin\Debug\CalcAtividade1.pdb
+C:\Users\chmfa\source\repos\CalcAtividade1\CalcAtividade1\obj\Debug\CalcAtividade1.csprojAssemblyReference.cache
+C:\Users\chmfa\source\repos\CalcAtividade1\CalcAtividade1\obj\Debug\CalcAtividade1.Form1.resources
+C:\Users\chmfa\source\repos\CalcAtividade1\CalcAtividade1\obj\Debug\CalcAtividade1.Properties.Resources.resources
+C:\Users\chmfa\source\repos\CalcAtividade1\CalcAtividade1\obj\Debug\CalcAtividade1.csproj.GenerateResource.cache
+C:\Users\chmfa\source\repos\CalcAtividade1\CalcAtividade1\obj\Debug\CalcAtividade1.csproj.CoreCompileInputs.cache
+C:\Users\chmfa\source\repos\CalcAtividade1\CalcAtividade1\obj\Debug\CalcAtividade1.exe
+C:\Users\chmfa\source\repos\CalcAtividade1\CalcAtividade1\obj\Debug\CalcAtividade1.pdb
