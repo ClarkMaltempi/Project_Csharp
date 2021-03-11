@@ -1,0 +1,10 @@
+C:\Users\chmfa\source\repos\CalcPesoIdeal\CalcPesoIdeal\bin\Debug\CalcPesoIdeal.exe.config
+C:\Users\chmfa\source\repos\CalcPesoIdeal\CalcPesoIdeal\bin\Debug\CalcPesoIdeal.exe
+C:\Users\chmfa\source\repos\CalcPesoIdeal\CalcPesoIdeal\bin\Debug\CalcPesoIdeal.pdb
+C:\Users\chmfa\source\repos\CalcPesoIdeal\CalcPesoIdeal\obj\Debug\CalcPesoIdeal.csprojAssemblyReference.cache
+C:\Users\chmfa\source\repos\CalcPesoIdeal\CalcPesoIdeal\obj\Debug\CalcPesoIdeal.Form1.resources
+C:\Users\chmfa\source\repos\CalcPesoIdeal\CalcPesoIdeal\obj\Debug\CalcPesoIdeal.Properties.Resources.resources
+C:\Users\chmfa\source\repos\CalcPesoIdeal\CalcPesoIdeal\obj\Debug\CalcPesoIdeal.csproj.GenerateResource.cache
+C:\Users\chmfa\source\repos\CalcPesoIdeal\CalcPesoIdeal\obj\Debug\CalcPesoIdeal.csproj.CoreCompileInputs.cache
+C:\Users\chmfa\source\repos\CalcPesoIdeal\CalcPesoIdeal\obj\Debug\CalcPesoIdeal.exe
+C:\Users\chmfa\source\repos\CalcPesoIdeal\CalcPesoIdeal\obj\Debug\CalcPesoIdeal.pdb
