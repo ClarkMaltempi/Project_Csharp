@@ -14,7 +14,13 @@ namespace CalcPesoIdeal
     public partial class Form1 : Form
     {
         double Altura, Peso, Resultado, PesoAtual;
-        //double PesoIdeal;
+        
+        
+        
+        private void button1_Click(object sender, EventArgs e)
+        {
+            double Altura, Peso, Resultado, PesoAtual;
+        
         
         
         private void button1_Click(object sender, EventArgs e)
@@ -32,26 +38,31 @@ namespace CalcPesoIdeal
                 Resultado = Math.Round(Resultado);
                 textBox3.Text = Resultado.ToString() + " Kg";
 
-            }
-
-            if (radioButton2.Checked)
-            {
-                radioButton2.PerformClick();
-
-                Resultado = (62.1 * Altura - 44.7);
-                Resultado = Math.Round(Resultado);
-                textBox3.Text = Resultado.ToString() + " Kg";
-
-            }
 
 
-            if (PesoAtual >= Resultado)
-            {
-                MessageBox.Show("Regime Obrigatório Já!!!");
-            }
-            else if(PesoAtual < Resultado)
-            {
-                MessageBox.Show("Você está com o Peso Ideal!!!");
+                if (radioButton2.Checked)
+                {
+                    radioButton2.PerformClick();
+
+                    Resultado = (62.1 * Altura - 44.7);
+                    Resultado = Math.Round(Resultado);
+                    textBox3.Text = Resultado.ToString() + " Kg";
+
+                }
+
+                double.TryParse(textBox4.Text, out PesoAtual);
+                PesoAtual = 0;
+                PesoAtual = Peso;
+               
+
+                if (PesoAtual > Resultado)
+                {
+                    MessageBox.Show("Regime Obrigatório Já!!!");
+                }
+                if (PesoAtual < Resultado)
+                {
+                    MessageBox.Show("Você está com o Peso Ideal!!!");
+                }
             }
 
         }
