@@ -1,0 +1,10 @@
+C:\Users\chmfa\source\repos\TipoTriangulo\TipoTriangulo\bin\Debug\TipoTriangulo.exe.config
+C:\Users\chmfa\source\repos\TipoTriangulo\TipoTriangulo\bin\Debug\TipoTriangulo.exe
+C:\Users\chmfa\source\repos\TipoTriangulo\TipoTriangulo\bin\Debug\TipoTriangulo.pdb
+C:\Users\chmfa\source\repos\TipoTriangulo\TipoTriangulo\obj\Debug\TipoTriangulo.csprojAssemblyReference.cache
+C:\Users\chmfa\source\repos\TipoTriangulo\TipoTriangulo\obj\Debug\TipoTriangulo.Form1.resources
+C:\Users\chmfa\source\repos\TipoTriangulo\TipoTriangulo\obj\Debug\TipoTriangulo.Properties.Resources.resources
+C:\Users\chmfa\source\repos\TipoTriangulo\TipoTriangulo\obj\Debug\TipoTriangulo.csproj.GenerateResource.cache
+C:\Users\chmfa\source\repos\TipoTriangulo\TipoTriangulo\obj\Debug\TipoTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\chmfa\source\repos\TipoTriangulo\TipoTriangulo\obj\Debug\TipoTriangulo.exe
+C:\Users\chmfa\source\repos\TipoTriangulo\TipoTriangulo\obj\Debug\TipoTriangulo.pdb
