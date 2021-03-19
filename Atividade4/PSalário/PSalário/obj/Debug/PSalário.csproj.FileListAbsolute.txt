@@ -1,0 +1,10 @@
+C:\Users\chmfa\source\repos\PSalário\PSalário\bin\Debug\PSalário.exe.config
+C:\Users\chmfa\source\repos\PSalário\PSalário\bin\Debug\PSalário.exe
+C:\Users\chmfa\source\repos\PSalário\PSalário\bin\Debug\PSalário.pdb
+C:\Users\chmfa\source\repos\PSalário\PSalário\obj\Debug\PSalário.csprojAssemblyReference.cache
+C:\Users\chmfa\source\repos\PSalário\PSalário\obj\Debug\PSalário.Form1.resources
+C:\Users\chmfa\source\repos\PSalário\PSalário\obj\Debug\PSalário.Properties.Resources.resources
+C:\Users\chmfa\source\repos\PSalário\PSalário\obj\Debug\PSalário.csproj.GenerateResource.cache
+C:\Users\chmfa\source\repos\PSalário\PSalário\obj\Debug\PSalário.csproj.CoreCompileInputs.cache
+C:\Users\chmfa\source\repos\PSalário\PSalário\obj\Debug\PSalário.exe
+C:\Users\chmfa\source\repos\PSalário\PSalário\obj\Debug\PSalário.pdb
