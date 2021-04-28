@@ -1,0 +1,14 @@
+C:\Users\chmfa\source\repos\Pmetodos\Pmetodos\bin\Debug\Pmetodos.exe.config
+C:\Users\chmfa\source\repos\Pmetodos\Pmetodos\bin\Debug\Pmetodos.exe
+C:\Users\chmfa\source\repos\Pmetodos\Pmetodos\bin\Debug\Pmetodos.pdb
+C:\Users\chmfa\source\repos\Pmetodos\Pmetodos\obj\Debug\Pmetodos.csprojAssemblyReference.cache
+C:\Users\chmfa\source\repos\Pmetodos\Pmetodos\obj\Debug\Pmetodos.frmPrincipal.resources
+C:\Users\chmfa\source\repos\Pmetodos\Pmetodos\obj\Debug\Pmetodos.Properties.Resources.resources
+C:\Users\chmfa\source\repos\Pmetodos\Pmetodos\obj\Debug\Pmetodos.csproj.GenerateResource.cache
+C:\Users\chmfa\source\repos\Pmetodos\Pmetodos\obj\Debug\Pmetodos.csproj.CoreCompileInputs.cache
+C:\Users\chmfa\source\repos\Pmetodos\Pmetodos\obj\Debug\Pmetodos.exe
+C:\Users\chmfa\source\repos\Pmetodos\Pmetodos\obj\Debug\Pmetodos.pdb
+C:\Users\chmfa\source\repos\Pmetodos\Pmetodos\obj\Debug\Pmetodos.frmExercicio2.resources
+C:\Users\chmfa\source\repos\Pmetodos\Pmetodos\obj\Debug\Pmetodos.frmExercicio3.resources
+C:\Users\chmfa\source\repos\Pmetodos\Pmetodos\obj\Debug\Pmetodos.frmExercicio4.resources
+C:\Users\chmfa\source\repos\Pmetodos\Pmetodos\obj\Debug\Pmetodos.frmExercicio5.resources
