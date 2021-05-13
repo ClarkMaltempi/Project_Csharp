@@ -1,0 +1,14 @@
+C:\Users\chmfa\source\repos\PAtividade7\PAtividade7\bin\Debug\PAtividade7.exe.config
+C:\Users\chmfa\source\repos\PAtividade7\PAtividade7\bin\Debug\PAtividade7.exe
+C:\Users\chmfa\source\repos\PAtividade7\PAtividade7\bin\Debug\PAtividade7.pdb
+C:\Users\chmfa\source\repos\PAtividade7\PAtividade7\obj\Debug\PAtividade7.csprojAssemblyReference.cache
+C:\Users\chmfa\source\repos\PAtividade7\PAtividade7\obj\Debug\PAtividade7.Form1.resources
+C:\Users\chmfa\source\repos\PAtividade7\PAtividade7\obj\Debug\PAtividade7.frmExercicio1.resources
+C:\Users\chmfa\source\repos\PAtividade7\PAtividade7\obj\Debug\PAtividade7.Properties.Resources.resources
+C:\Users\chmfa\source\repos\PAtividade7\PAtividade7\obj\Debug\PAtividade7.csproj.GenerateResource.cache
+C:\Users\chmfa\source\repos\PAtividade7\PAtividade7\obj\Debug\PAtividade7.csproj.CoreCompileInputs.cache
+C:\Users\chmfa\source\repos\PAtividade7\PAtividade7\obj\Debug\PAtividade7.exe
+C:\Users\chmfa\source\repos\PAtividade7\PAtividade7\obj\Debug\PAtividade7.pdb
+C:\Users\chmfa\source\repos\PAtividade7\PAtividade7\obj\Debug\PAtividade7.frmExercicio2.resources
+C:\Users\chmfa\source\repos\PAtividade7\PAtividade7\obj\Debug\PAtividade7.frmExercicio3.resources
+C:\Users\chmfa\source\repos\PAtividade7\PAtividade7\obj\Debug\PAtividade7.frmExercicio4.resources
