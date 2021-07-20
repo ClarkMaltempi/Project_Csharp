@@ -1,0 +1,16 @@
+C:\Users\TR032030\source\repos\WinTestePing\WinTestePing\bin\Debug\netcoreapp3.1\WinTestePing.exe
+C:\Users\TR032030\source\repos\WinTestePing\WinTestePing\bin\Debug\netcoreapp3.1\WinTestePing.deps.json
+C:\Users\TR032030\source\repos\WinTestePing\WinTestePing\bin\Debug\netcoreapp3.1\WinTestePing.runtimeconfig.json
+C:\Users\TR032030\source\repos\WinTestePing\WinTestePing\bin\Debug\netcoreapp3.1\WinTestePing.runtimeconfig.dev.json
+C:\Users\TR032030\source\repos\WinTestePing\WinTestePing\bin\Debug\netcoreapp3.1\WinTestePing.dll
+C:\Users\TR032030\source\repos\WinTestePing\WinTestePing\bin\Debug\netcoreapp3.1\WinTestePing.pdb
+C:\Users\TR032030\source\repos\WinTestePing\WinTestePing\obj\Debug\netcoreapp3.1\WinTestePing.csproj.AssemblyReference.cache
+C:\Users\TR032030\source\repos\WinTestePing\WinTestePing\obj\Debug\netcoreapp3.1\WinTestePing.Form1.resources
+C:\Users\TR032030\source\repos\WinTestePing\WinTestePing\obj\Debug\netcoreapp3.1\WinTestePing.csproj.GenerateResource.cache
+C:\Users\TR032030\source\repos\WinTestePing\WinTestePing\obj\Debug\netcoreapp3.1\WinTestePing.AssemblyInfoInputs.cache
+C:\Users\TR032030\source\repos\WinTestePing\WinTestePing\obj\Debug\netcoreapp3.1\WinTestePing.AssemblyInfo.cs
+C:\Users\TR032030\source\repos\WinTestePing\WinTestePing\obj\Debug\netcoreapp3.1\WinTestePing.csproj.CoreCompileInputs.cache
+C:\Users\TR032030\source\repos\WinTestePing\WinTestePing\obj\Debug\netcoreapp3.1\WinTestePing.dll
+C:\Users\TR032030\source\repos\WinTestePing\WinTestePing\obj\Debug\netcoreapp3.1\WinTestePing.pdb
+C:\Users\TR032030\source\repos\WinTestePing\WinTestePing\obj\Debug\netcoreapp3.1\WinTestePing.genruntimeconfig.cache
+C:\Users\TR032030\source\repos\WinTestePing\WinTestePing\obj\Debug\netcoreapp3.1\WinTestePing.Properties.Resources.resources
