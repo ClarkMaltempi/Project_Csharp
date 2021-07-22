@@ -1,1 +1,1 @@
-Esse projeto consiste na aplicação de monitoramento de balanças, através do endereço IP.
+Esse projeto tem por objetivo o desenvolvimento e monitoramento de balanças, através do endereço IP.
