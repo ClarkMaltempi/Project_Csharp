@@ -123,6 +123,12 @@ int idade = int.Parse(Console.ReadLine());
             Console.WriteLine(preco);
 
         }
+	 
+	 static int Nota(int Nota1, int Nota2)
+	{
+		int resultado = Nota1+Nota2;
+		return resultado;
+	}
 
     }
 	
