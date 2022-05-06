@@ -227,3 +227,30 @@ while(contador < 10){
 	contador++;//contador += 1;
 }
 	Console.WhriteLine("FIM DA LINHA!");
+
+int contador2 =0;
+	do{
+		
+		Console.WhriteLine("Rodando o While!");
+		contador2++;
+		
+	}while(contador2 < 20);
+	
+	
+//Foreach************************************************************
+
+string[] palavras = {"Vitor", "Lima", "Guia do prog"};
+
+foreach(string palavra in palavras)// Para cada palavra no array palavras, repita o bloco de código
+{
+	Console.WhriteLine("FOREACH RODANDO");
+	Console.WhriteLine(palavra);
+}
+
+//For*************************************************************
+
+for(int contador=0; contador < 10; contador++){
+	Console.WhriteLine("FOR RODANDO");
+}
+
+
