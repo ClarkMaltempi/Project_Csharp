@@ -368,6 +368,38 @@ catch(System.Exception)
 {
 	Console.WriteLine("Erro"); 
 }
+		  
+		  
+//Classes 
+/*
+[ModificadorClasse] class NomeDaClasse{
+	//Variaveis / Propriedades
+	[EspecificadorAcesso] tipo NomePropriedade
+	
+	//Métodos
+	[EspecificadorAcesso] retorno NomeMetodo([arg1...]){
+		//Corpo do Método
+	}
+}
+
+[ModificadorClasse] Define a visibilidade da classe
+//public: Pública, se restrição
+//abstract: Classe-Base para outras classes, não pode ser estanciado objetos dessa classe
+//sealed: Classe não pode ser herdada
+static: Classe não permite a instanciação de objetos e seus
+	Membros devem ser static
+	
+EspecificadorAcesso: Onde um membro da classe pode ser acessado
+public: Sem restrição de acesso
+private: Só podem ser acessado pela própria classe
+protected: Podem ser acessados na própria classe e nas classes derivadas
+
+abstract: Os métodos não tem implementação somente os cabeçalhos
+sealed: O método não pode ser redefinido
+virtual: o método pode ser redefinido em uma classe derivada
+static: o método pode ser chamado mesmo sem a instanciação de um objeto
+
+*/
 
 //Classes exemplo contas Bancárias***********************************************************
 //Main
@@ -866,5 +898,6 @@ var range = Enumerable.Range(0,5).select(number => random.next(1,100));//next re
 
 //Outro exemplo
 var range = Enumerable.Range(0,26).Select(number => (char)('a' + number));
+
 
 
