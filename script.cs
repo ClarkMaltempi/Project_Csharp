@@ -92,7 +92,7 @@ if(num > num2)
 //Adulto --
 //Idoso --
 
-//Converter texto para numero
+//Converter texto para numero*********************************************************************************************************************************
 
 int idade = int.Parse("123");
 int idade = int.Parse(Console.ReadLine());
